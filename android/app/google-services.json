@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "685411765924",
+    "firebase_url": "https://events-1e83f.firebaseio.com",
+    "project_id": "events-1e83f",
+    "storage_bucket": "events-1e83f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:685411765924:android:a0ce48dce3858efe",
+        "android_client_info": {
+          "package_name": "com.nrjstudio.events"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "685411765924-hq4j6bh3pifopq0h422okl89hl9em056.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC43VG6_HzewtCiGSVm5HLnlvGiK2LRLGo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "685411765924-hq4j6bh3pifopq0h422okl89hl9em056.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
